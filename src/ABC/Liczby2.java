@@ -9,5 +9,14 @@ public class Liczby2 {
         System.out.println("dwóch liczb całkowitych.");
         System.out.println("Dla liczb a = " + a + ", b = " + b);
         System.out.println(a + "%" + b + " = " + a%b + ".");
+
+        int licznik = 0;
+
+        while(licznik<10){
+            System.out.println("To jest petla");
+            licznik++;
+        }
+        System.out.println("Koniec pętli");
     }
-}
+    }
+
