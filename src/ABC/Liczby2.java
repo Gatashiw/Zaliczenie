@@ -12,7 +12,7 @@ public class Liczby2 {
 
         int licznik = 0;
 
-        while(licznik<10){
+        while(licznik<5){
             System.out.println("To jest petla");
             licznik++;
         }
